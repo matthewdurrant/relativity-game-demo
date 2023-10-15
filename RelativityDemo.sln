@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33927.210
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RelativityDemo", "RelativityDemo\RelativityDemo.csproj", "{978C5638-AF47-47A5-88EA-C633D2BAE49D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RelativityDemoTests", "RelativityDemoTests\RelativityDemoTests.csproj", "{3EA51FDF-5DFE-4339-93C7-68506500A75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978C5638-AF47-47A5-88EA-C633D2BAE49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978C5638-AF47-47A5-88EA-C633D2BAE49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978C5638-AF47-47A5-88EA-C633D2BAE49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978C5638-AF47-47A5-88EA-C633D2BAE49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA51FDF-5DFE-4339-93C7-68506500A75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA51FDF-5DFE-4339-93C7-68506500A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA51FDF-5DFE-4339-93C7-68506500A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA51FDF-5DFE-4339-93C7-68506500A75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3736D453-BF18-47A7-8D91-0F51661F8164}
+	EndGlobalSection
+EndGlobal

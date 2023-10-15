@@ -1,0 +1,19 @@
+The program architecture is basically the architecture of the ship computer. 
+The main ship has modules that interact with the hardware of the ship etc.
+
+You are not really present in the game, you are present in real life, the program simulating your ship which you interact with through the console.
+
+Some items have a ... a ... coordinate time sell-by date. E.g. fashion and electronics.
+Like a 2028 suit, or a 2025 TV.
+Locations have a "culture time". Earth sets the culture, planets are behind depending on distance.
+
+Other goods have a general sell-by date. Fresh food only lasts a month, refridgerated food longer, etc.
+The shorter the sell-by the more valuable the good.
+E.g. fresh sushi from Earth is worth a mint on Alpha Centauri but goes stinky quickly.
+
+The player has to choose their speed.
+Too fast and the world goes by without them.
+Too slow and they don't make enough money.
+
+The player can get stuck hundreds of light years away. They don't have enough fuel for a quick jump home. 
+They can get home ... but they will be dead of old age.
